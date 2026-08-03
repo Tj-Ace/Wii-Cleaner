@@ -55,9 +55,7 @@ The uninstall action requires the full `1 -> 2 -> PLUS` confirmation sequence to
 
 - A real Wii
 - Homebrew Channel
-- AHBPROT access through `<ahb_access/>` in `meta.xml`
 - SD card or USB device supported by the Homebrew Channel
-- devkitPro, devkitPPC, and libogc to build from source
 
 ## Install
 
