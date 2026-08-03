@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Wii Cleaner</name>
+  <coder>Codex</coder>
+  <version>1.0.0</version>
+  <release_date>20260801000000</release_date>
+  <short_description>Clean up retired Wii system channels</short_description>
+  <long_description>Deletes the Wii Photo Channel, Wii Shop Channel, Forecast Channel, and News Channel title IDs. Uses ES deletion first, then a targeted ISFS fallback for the listed title directories and tickets only. Make a NAND backup before running.</long_description>
+  <ahb_access/>
+</app>
